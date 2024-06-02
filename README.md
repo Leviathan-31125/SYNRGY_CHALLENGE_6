@@ -1,9 +1,9 @@
 <h1>Challenge 6</h1>
 Database: challenge_6
 How to start?
-1. Run "npm start"
-2. Run "npm migration"
-3. Run "npm seeding"
+- Run "npm start"
+- Run "npm migration"
+- Run "npm seeding"
 Then use your postman to get some action like login, CRUD, etc.
 
 account seeder:
